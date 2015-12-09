@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/stephenmudra/docker-kue-ui",
   "dependencies": {
-    "kue": "^0.9.3"
+    "kue": "^0.10.4"
   }
 }
