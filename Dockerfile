@@ -1,5 +1,5 @@
 
-FROM google/nodejs
+FROM node
 
 COPY package.json /src/package.json
 RUN cd /src && npm install --production
